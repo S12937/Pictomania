@@ -1,1 +1,1 @@
-# Pictomania2
+# Pictomania
